@@ -1,0 +1,8 @@
+venv
+.venv
+*.pyc
+.env
+.gitignore
+.dockerignore
+.git
+.github
